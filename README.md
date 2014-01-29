@@ -21,6 +21,11 @@ Silvio Berlusconi=Europe/Rome
 Bob Hawke=Australia/Sydney
 ```
 
+A data file is shipped and installed, into `$prefix/share/gente/data.txt`.
+This is just for testing as its contents are a joke. You can use
+your own key file by putting it in `~/.config/gente/` ensuring it too
+is called `data.txt`. This will override the installed test data file.
+
 Timezone names
 --------------
 

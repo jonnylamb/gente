@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=gente
+_Comment=People search by timezone
+Exec=gente
+TryExec=gente
+Terminal=false
+Type=Application
+Categories=GNOME;GTK;

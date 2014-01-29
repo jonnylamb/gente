@@ -1,0 +1,11 @@
+# /usr/share/zoneinfo/zone.tab
+
+[people]
+David Cameron=Europe/London
+Angela Merkel=Europe/Berlin
+François Hollande=Europe/Paris
+Giorgio Napolitano=Europe/Rome
+Barack Obama=America/New_York
+Enrique Peña Nieto=America/Mexico_City
+Cristina Fernández de Kirchner=America/Buenos_Aires
+Vladimir Putin=Europe/Moscow

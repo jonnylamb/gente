@@ -5,8 +5,7 @@ A tiny GNOME app that reads a name to timezone key file and shows
 where in the world and what the current time is for said person. It
 was heaviily based on the timezone editor in gnome-control-center.
 
-There is a sample key file installed into `$prefix/share/gente/data.txt`
-but if you create a `~/.config/gente/data.txt` it will be read instead.
+![Screenshot](/screenshot.png)
 
 Data file
 ---------
@@ -21,7 +20,7 @@ Silvio Berlusconi=Europe/Rome
 Bob Hawke=Australia/Sydney
 ```
 
-A data file is shipped and installed, into `$prefix/share/gente/data.txt`.
+A data file is shipped and installed into `$prefix/share/gente/data.txt`.
 This is just for testing as its contents are a joke. You can use
 your own key file by putting it in `~/.config/gente/` ensuring it too
 is called `data.txt`. This will override the installed test data file.
